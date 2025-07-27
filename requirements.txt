@@ -1,0 +1,14 @@
+gradio>=4.0.0
+flask>=2.3.0
+requests>=2.31.0
+
+# LangChain dependencies
+langchain-core>=0.1.0
+langchain-google-genai>=1.0.0
+
+# Audio processing
+elevenlabs>=0.2.0
+
+# Utilities
+uuid
+python-dotenv>=1.0.0
