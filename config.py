@@ -4,7 +4,7 @@ import os
 # API Keys
 GOOGLE_API_KEY = "AIzaSyBXY7QL0mPZvhao_FIlxEa8NHTB0t31UPo"
 ELEVENLABS_API_KEY = "sk_18fdb87fefc6938fda93245617a2c0bff3b5c3769cb8ccc7"
-HUGGINGFACE_API_KEY = "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"
+HUGGINGFACE_API_KEY = "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"
 
 # Backend Configuration
 BACKEND_HOST = "0.0.0.0"
